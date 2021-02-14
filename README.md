@@ -5,7 +5,7 @@ I strongly believe in the spirit of open-source software, and I use much of my s
 
 I mainly focus on Photoview, a self-hosted photo gallery that I've been regularly working on for a while now.
 
-📫 Send me a DM on [Twitter](https://twitter.com/viktorstrate) or you can send me an email at [viktorstrate@gmail.com](mailto:viktorstrate@gmail.com)
+📫 Send me a DM on [Twitter](https://twitter.com/viktorstrate) or write me an email at [viktorstrate@gmail.com](mailto:viktorstrate@gmail.com)
 
 <!--
 **viktorstrate/viktorstrate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
